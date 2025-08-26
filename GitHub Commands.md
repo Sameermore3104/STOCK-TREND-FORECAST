@@ -16,7 +16,7 @@ copy the git remote command from GitHub
 
 ```
 
-$ git remote add origin "you repository link provided by the github"
+git remote add origin "you repository link provided by the github"
 
 ```
 
